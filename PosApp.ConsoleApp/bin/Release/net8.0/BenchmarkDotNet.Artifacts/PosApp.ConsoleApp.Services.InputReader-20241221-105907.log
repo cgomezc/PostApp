@@ -1,0 +1,29 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 1 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet  restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true /p:IntermediateOutputPath="C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1\obj\Release\net8.0/" /p:OutDir="C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1\bin\Release\net8.0/" /p:OutputPath="C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1\bin\Release\net8.0/" in C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1
+// command took 5.14 sec and exited with 0
+// start dotnet  build -c Release --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true /p:IntermediateOutputPath="C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1\obj\Release\net8.0/" /p:OutDir="C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1\bin\Release\net8.0/" /p:OutputPath="C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1\bin\Release\net8.0/" --output "C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1\bin\Release\net8.0/" in C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1
+// command took 29.5 sec and exited with 0
+// ***** Done, took 00:00:34 (34.94 sec)   *****
+// Found 1 benchmarks:
+//   InputReader.ReadInput: DefaultJob
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: High performance)
+// **************************
+// Benchmark: InputReader.ReadInput: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet e7fb8972-521c-4a33-8718-b74abd8ed2c1.dll --anonymousPipes 1528 1284 --benchmarkName PosApp.ConsoleApp.Services.InputReader.ReadInput --job Default --benchmarkId 0 in C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\e7fb8972-521c-4a33-8718-b74abd8ed2c1\bin\Release\net8.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.14.0
+// Runtime=.NET 8.0.11 (8.0.1124.51707), X64 RyuJIT AVX2
+// GC=Concurrent Workstation
+// HardwareIntrinsics=AVX2,AES,BMI1,BMI2,FMA,LZCNT,PCLMUL,POPCNT VectorSize=256
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 598800.00 ns, 598.8000 us/op
+Enter total price:

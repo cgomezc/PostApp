@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PosApp.Application/1.0.0": {
+        "dependencies": {
+          "PostApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PosApp.Application.dll": {}
+        }
+      },
+      "PostApp.Domain/1.0.0": {
+        "runtime": {
+          "PostApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PosApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\bin\Release\net8.0\PosApp.Application.deps.json
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\bin\Release\net8.0\PosApp.Application.dll
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\bin\Release\net8.0\PosApp.Application.pdb
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\PosApp.Application.csproj.AssemblyReference.cache
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\PosApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\PosApp.Application.AssemblyInfoInputs.cache
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\PosApp.Application.AssemblyInfo.cs
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\PosApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\PosApp.A.BC5CB54D.Up2Date
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\PosApp.Application.dll
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\refint\PosApp.Application.dll
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\PosApp.Application.pdb
+C:\Users\eye-d\source\repos\BankMVP\PosApp.ConsoleApp\bin\Release\net8.0\6a2fe5d2-3000-484c-8f1b-8a2659e09c1c\obj\Release\net8.0\ref\PosApp.Application.dll

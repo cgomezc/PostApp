@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RlL4d3nu3Lc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eye-d\\source\\repos\\BankMVP\\PosApp.Persistence\\PosApp.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eye-d\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
