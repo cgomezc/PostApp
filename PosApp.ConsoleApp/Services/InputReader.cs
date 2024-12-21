@@ -21,7 +21,7 @@ namespace PosApp.ConsoleApp.Services
         // Helper function to get a valid decimal input
         static List<decimal> GetValidDecimalInput(string prompt)
         {
-            decimal validDecimal;
+       
             bool isValid;
             string[] userInput;
             do

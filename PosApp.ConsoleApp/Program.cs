@@ -15,7 +15,7 @@ namespace PosApp.ConsoleApp
     {
         static async Task Main(string[] args)
         {
-            // Build configuration
+            // Build configuration to load settings from appsettings.json
             var configuration = new ConfigurationBuilder()
                 .SetBasePath(AppContext.BaseDirectory) // Set the base path to the app's directory
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
@@ -56,7 +56,6 @@ namespace PosApp.ConsoleApp
             }
 
        
-            // Exit prompt
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
