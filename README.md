@@ -11,7 +11,9 @@ CASH Masters POS Change Calculator - A  C# console application that calculates o
 ## How It Works
 
 1. **Initialization**:
-   - Set the currency denomination globally in the appsettings.json file
+   - Set the default currency denomination globally in the appsettings.json file
+![image](https://github.com/user-attachments/assets/4b78a450-6746-4e3f-98c9-cdeddf38c045)
+
 
 2. **Change Calculation**:
    - Input the price.
